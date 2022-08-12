@@ -7,7 +7,6 @@ Play & Earn Game where users leverage their cricketing knowledge to earn money
 
 ## Features
 
-* Authentication is managed by Rainbow Kit.
 * Before the tournament starts, users can go to the Auction Page and place bids for any of the players.
 * They can update the bids before the auction ends.
 * Top 20% of the bidders of each player will be able to claim their respective player NFT.
@@ -42,10 +41,9 @@ Play & Earn Game where users leverage their cricketing knowledge to earn money
 ## Tech Stack
 
 * ReactJs
-* Solidity
+* SmartPy
 * IPFS
 * Pinata
-* Rainbow Kit
 * MongoDB
 * NodeJs
 * Bootstrap
@@ -83,7 +81,7 @@ Install my-project with npm
 Clone the project
 
 ```bash
-  git clone https://github.com/canbethegodfatherofyourlife/pnl_f.git
+  git clone https://github.com/Anushkagupta1612/PRO_NFT_LEAGUE.git
 ```
 
 Go to the project directory
